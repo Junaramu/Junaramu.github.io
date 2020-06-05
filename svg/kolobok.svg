@@ -1,0 +1,35 @@
+            <svg width="1200px" height="600px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <!-- Тень лисы -->
+                <ellipse cx="390" cy="438" rx="96" ry="30" fill="#d3d3d3"/>
+                <!-- Лиса -->
+                <circle cx="390" cy="300" r="150" fill="#ffa500" />
+                <!-- Глаза -->
+                <circle cx="372" cy="270" r="61" fill="white" />
+                <circle cx="456" cy="270" r="61" fill="white" />
+                <circle cx="384" cy="270" r="12" fill="black" />
+                <circle cx="468" cy="270" r="12" fill="black" />
+                <!-- Нос -->
+                <circle cx="414" cy="330" r="19" fill="black" />
+                <!-- Рот -->
+                <ellipse cx="390" cy="390" rx="30" ry="14" fill="red"/>
+                <!-- Хвост -->
+                <ellipse cx="288" cy="270" rx="102" ry="30" transform="rotate(15)" fill="#ffa500"/>
+                <polygon points="120,312 145 340, 155,300" fill="white" />
+                <!-- Уши -->
+                <polygon points="295,165 290,215 340,175" fill="black" stroke="#ffa500" stroke-width="7" />
+                <polygon points="430,180 480,205 475,155" fill="black" stroke="#ffa500" stroke-width="7"/>
+                
+                <!-- Тень желтого чувака -->
+                <ellipse cx="810" cy="438" rx="96" ry="30" fill="#d3d3d3"/>
+                <!-- Желтый чувак -->
+                <circle cx="810" cy="300" r="150" fill="#ffd700" />
+                <!-- Глаза -->
+                <circle cx="744" cy="270" r="61" fill="white" />
+                <circle cx="828" cy="270" r="61" fill="white" />
+                <circle cx="732" cy="270" r="12" fill="black" />
+                <circle cx="816" cy="270" r="12" fill="black" />
+                <!-- Рот -->
+                <ellipse cx="780" cy="378" rx="14" ry="24" fill="red"/>
+                
+                
+            </svg>
